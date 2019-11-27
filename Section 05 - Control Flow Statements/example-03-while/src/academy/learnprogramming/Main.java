@@ -52,7 +52,7 @@ public class Main {
                 break;
             }
         }
-        System.out.println("Total even numbers found: " + total);
+        System.out.println("Total even numbers found: " + evenNumbersFound);
 
     }
 
