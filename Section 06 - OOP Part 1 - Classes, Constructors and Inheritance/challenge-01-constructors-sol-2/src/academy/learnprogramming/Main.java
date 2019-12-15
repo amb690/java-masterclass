@@ -35,6 +35,5 @@ public class Main {
         System.out.println("3rd constructor customer: " + customer3.getName());
         System.out.println("3rd constructor email: " + customer3.getEmail());
         System.out.println("3rd constructor limit: " + customer3.getLimit());
-
     }
 }
