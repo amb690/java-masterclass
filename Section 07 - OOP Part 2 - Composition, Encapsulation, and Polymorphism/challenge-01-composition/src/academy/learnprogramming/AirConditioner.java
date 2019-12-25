@@ -31,7 +31,7 @@ public class AirConditioner {
 
     public void printTemperature() {
         System.out.println("----------------------Air conditioner-------------------------");
-        System.out.println("Name: " + name + ". Temperature: " + temperature);
+        System.out.println("Name: " + name + ". Temperature: " + temperature + "ºC");
         System.out.println();
     }
 }
