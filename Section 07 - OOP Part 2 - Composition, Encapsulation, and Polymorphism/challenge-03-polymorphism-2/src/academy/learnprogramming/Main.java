@@ -10,6 +10,6 @@ public class Main {
         ford.startEngine();
 
         Car ferrari = new Ferrari("Ferrari", 10);
-        ford.startEngine();
+        ferrari.startEngine();
     }
 }
